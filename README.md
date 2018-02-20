@@ -18,7 +18,7 @@ $ python pprint_json.py <path to file>
 ```
 #### Example output information from a file
 
-```javascript
+```json
 "properties": {
 "Attributes": {
   "Address": "улица Академика Королёва, дом 3",
